@@ -1,10 +1,8 @@
 # Full Stack Spotify Clone
 
-# Technologies Used : Next.js 13.4, React, Tailwind, Supabase, PostgreSQL, Stripe, Typescript
-
 This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
-Key Features:
+### Key Features:
 
 - Song upload
 - Stripe integration
@@ -25,3 +23,5 @@ Key Features:
 - How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
 - Handling relations between Server and Child components in a real-time environment
 - Cancelling Stripe subscriptions
+
+### Technologies Used : Next.js 13.4, React, Tailwind, Supabase, PostgreSQL, Stripe, Typescript
