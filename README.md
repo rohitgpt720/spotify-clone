@@ -19,9 +19,6 @@ This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router
 - Playlists / Liked songs system
 - Advanced Player component
 - Stripe recurring payment integration
-- How to write POST, GET, and DELETE routes in route handlers (app/api)
-- How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
-- Handling relations between Server and Child components in a real-time environment
-- Cancelling Stripe subscriptions
+
 
 ### Technologies Used : Next.js 13.4, React, Tailwind, Supabase, PostgreSQL, Stripe, Typescript
